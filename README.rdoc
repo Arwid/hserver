@@ -2,9 +2,10 @@
 
 author:: Arwid Bancewicz http://arwid.ca
 version:: 1.0
+language:: C++
 updated:: 3 Apr 2007
 
-This is an HTTP web server built with the criteria of modularity, extensibility, usability, robustness, and efficiency.
+This is an HTTP web server written in C++ with the criteria of modularity, extensibility, usability, robustness, and efficiency.
 
 = Features
 
