@@ -1,0 +1,27 @@
+= hserver
+
+author:: Arwid Bancewicz http://arwid.ca
+version:: 1.0
+updated:: 3 Apr 2007
+
+This is an HTTP web server built with the criteria of modularity, extensibility, usability, robustness, and efficiency.
+
+= Features
+
+The features that were implemented are as follows:
+
+* Config File Format
+* Log Files
+* Error HTML page
+* Default page
+* Handling Other Content Types
+* Virtual Web Hosting
+* Graceful Server Shutdown
+* Automatic Pathname Expansion
+* Listing Directory Contents
+* Dynamic Content Handling (Get and Post)
+* Adding Concurrency
+
+= License
+
+hserver is covered by the GNU General Public License. See http://www.gnu.org/licenses/

@@ -1,0 +1,8 @@
+InstallRoot: /<PATH TO HSERVER>
+DocRoot: /<PATH TO HSERVER>/public_www/public_www
+AccessLog: access.log
+ErrorLog: error.log
+DebugLog: debug.log
+ServerNum: 1
+Threads: 19
+Port: 54054
